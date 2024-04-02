@@ -1,1 +1,1 @@
-# passwrod-generator
+# passwordd-generator
